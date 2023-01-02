@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanchanReal
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding ofcourse lol
+- 🌱 I’m currently learning Coding c# / python / maybe java in future??
 - 💞️ I’m looking to collaborate on making anything on coding yes please.
 - 📫 How to reach me send me email tsuchanchan07@gmail.com
 
