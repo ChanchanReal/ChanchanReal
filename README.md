@@ -1,3 +1,15 @@
+```
+  o              o                 o                                           
+ <|>            <|>               <|>                                          
+ / \            / \               / \                                          
+ \o/            \o/    o__  __o   \o/      __o__    o__ __o    \o__ __o__ __o  
+  |              |    /v      |>   |      />  \    /v     v\    |     |     |> 
+ < >            < >  />      //   / \   o/        />       <\  / \   / \   / \ 
+  \o    o/\o    o/   \o    o/     \o/  <|         \         /  \o/   \o/   \o/ 
+   v\  /v  v\  /v     v\  /v __o   |    \\         o       o    |     |     |  
+    <\/>    <\/>       <\/> __/>  / \    _\o__</   <\__ __/>   / \   / \   / \
+```
+
 - 👋 Hi, I’m @ChanchanReal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding c# / python / maybe java in future??
